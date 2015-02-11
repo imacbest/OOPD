@@ -3,7 +3,7 @@ package introJava;
 import oopd.StudentOpSchool.*;
 
 public class Programma {
-
+	// main
 	public static void main(String[] args) {
 		studentFuncties();
 		System.out.println("DoneYEP!");
