@@ -1,6 +1,6 @@
 package introJava;
 
-import oopd.StudentOpSchool.*;;
+import oopd.StudentOpSchool.*;
 
 public class Programma {
 
