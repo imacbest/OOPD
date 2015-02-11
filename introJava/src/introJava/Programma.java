@@ -16,6 +16,7 @@ public class Programma {
 		System.out.println("Student naam: " + s1.getNaam());
 		System.out.println("Student nummer: " + s1.getNummer());
 		System.out.println("School naam: " + s1.getSchool().getNaam());
+		System.out.println("Done");
 	}
 
 }
