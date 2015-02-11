@@ -7,8 +7,6 @@ public class Programma {
 	public static void main(String[] args) {
 		studentFuncties();
 		System.out.println("DoneYEP!");
-		// testsdf?:D
-
 	}
 	
 	public static void studentFuncties(){
