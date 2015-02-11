@@ -6,7 +6,7 @@ public class Programma {
 
 	public static void main(String[] args) {
 		studentFuncties();
-		System.out.println("DoneNOPE!");
+		System.out.println("DoneNOPE?!");
 	}
 	
 	public static void studentFuncties(){
