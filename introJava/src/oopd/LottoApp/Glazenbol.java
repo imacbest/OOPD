@@ -1,6 +1,7 @@
 package oopd.LottoApp;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class Glazenbol {
 
@@ -12,7 +13,10 @@ public class Glazenbol {
 		}
 	}
 	
-	public void schepBal() {
+	public Lottobal schepBal() {
+		Random r = new Random();
+		int random = r.nextInt(ballen.size());
+		return ballen.get(random);
 		
 	}
 
