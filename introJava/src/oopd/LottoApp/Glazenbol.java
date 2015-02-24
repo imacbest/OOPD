@@ -8,7 +8,7 @@ public class Glazenbol {
 		
 	public void verzamelAlleBallen() {
 		for(int i = 0;i<44;i++) {
-			ballen.add(i+1, null);
+			this.ballen.add(i+1, null);
 		}
 	}
 	
