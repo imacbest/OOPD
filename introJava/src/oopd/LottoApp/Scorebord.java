@@ -37,10 +37,11 @@ public class Scorebord {
 	}
 	
 	public void printScorebord(){
-		System.out.println("Ballen: " + Arrays.toString(ballen.toArray()));
-		
+		//System.out.println("Ballen: " + Arrays.toString(ballen.toArray()));
+		System.out.println("Getrokken ballen: ");
 		for(Lottobal x : ballen){
-			System.out.println(x + "");
+			System.out.print(x + " ");
 		}
+		System.out.println("\nBonusbal: " + this.bonusBal);
 	}
 }
