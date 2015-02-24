@@ -6,7 +6,7 @@ import oopd.StudentOpSchool.*;
 public class Programma {
 	// main
 	public static void main(String[] args) {
-		studentFuncties();
+		//studentFuncties();
 	}
 	
 	public static void studentFuncties(){
