@@ -15,5 +15,5 @@ public class School {
 	public void setNaam(String naam) {
 		this.naam = naam;
 	}
-
+	
 }
