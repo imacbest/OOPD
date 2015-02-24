@@ -15,5 +15,9 @@ public class Lottobal {
 	public String toString() {
 		return "" + balNummer;
 	}
+	
+	public int getNummer(){
+		return this.balNummer;
+	}
 }
 
